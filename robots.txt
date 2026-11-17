@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yrtirving.com/sitemap.xml

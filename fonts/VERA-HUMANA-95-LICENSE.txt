@@ -1,0 +1,12 @@
+Vera Humana 95
+
+Copyright notice embedded in each font file:
+BX Fonts 1997. This font may be used and distributed for free, but not be sold.
+
+Source: the CDN font files already referenced by the original site:
+https://fonts.cdnfonts.com/s/8720/Verah___.woff
+https://fonts.cdnfonts.com/s/8720/Verahb__.woff
+https://fonts.cdnfonts.com/s/8720/Verahi__.woff
+https://fonts.cdnfonts.com/s/8720/Verahbi_.woff
+
+The optional bold-italic-fixed file only corrects the OS/2 usWeightClass metadata from the invalid value 17661 to 700. Glyph outlines and the embedded copyright notice are unchanged.
